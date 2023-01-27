@@ -1,0 +1,142 @@
+<div id="carouselExampleIndicators" class="carousel slide">
+<div class="carousel-indicators">
+<button
+type="button"
+data-bs-target="#carouselExampleIndicators"
+data-bs-slide-to="0"
+class="active"
+aria-current="true"
+aria-label="Slide 1"
+></button>
+<button
+type="button"
+data-bs-target="#carouselExampleIndicators"
+data-bs-slide-to="1"
+aria-label="Slide 2"
+></button>
+</div>
+<div class="carousel-inner " id="service-body">
+<div class="carousel-item active">
+<div class="row text-center my-3">
+<div class="col-md-4 services">
+<img
+src="./images/service1.png"
+class="service-img wow animate__animated animate__fadeInUp"
+alt=""
+/>
+<h4 class="wow animate__animated animate__fadeInUp">
+IT Services
+</h4>
+<p class="wow animate__animated animate__fadeInUp">
+Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Sit, atque amet dolores ipsa minima placeat eaque enim
+provident fugit esse deserunt culpa exercitationem eligendi
+accusamus explicabo perferendis iusto molestiae unde!
+</p>
+</div>
+<div class="col-md-4 services">
+<img
+src="./images/service1.png"
+class="service-img wow animate__animated animate__fadeInUp"
+alt=""
+/>
+<h4 class="wow animate__animated animate__fadeInUp">
+Software Development
+</h4>
+<p class="wow animate__animated animate__fadeInUp">
+Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Sit, atque amet dolores ipsa minima placeat eaque enim
+provident fugit esse deserunt culpa exercitationem eligendi
+accusamus explicabo perferendis iusto molestiae unde!
+</p>
+</div>
+<div class="col-md-4 services">
+<img
+src="./images/service1.png"
+class="service-img wow animate__animated animate__fadeInUp"
+alt=""
+/>
+<h4 class="wow animate__animated animate__fadeInUp">
+Web Development
+</h4>
+<p class="wow animate__animated animate__fadeInUp">
+Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Sit, atque amet dolores ipsa minima placeat eaque enim
+provident fugit esse deserunt culpa exercitationem eligendi
+accusamus explicabo perferendis iusto molestiae unde!
+</p>
+</div>
+</div>
+</div>
+<div class="carousel-item">
+<div class="row text-center my-3">
+<div class="col-md-4 services">
+<img
+src="./images/service1.png"
+class="service-img wow animate__animated animate__fadeInUp"
+alt=""
+/>
+<h4 class="wow animate__animated animate__fadeInUp">
+Network & CCTV Services
+</h4>
+<p class="wow animate__animated animate__fadeInUp">
+Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Sit, atque amet dolores ipsa minima placeat eaque enim
+provident fugit esse deserunt culpa exercitationem eligendi
+accusamus explicabo perferendis iusto molestiae unde!
+</p>
+</div>
+<div class="col-md-4 services">
+<img
+src="./images/service1.png"
+class="service-img wow animate__animated animate__fadeInUp"
+alt=""
+/>
+<h4 class="wow animate__animated animate__fadeInUp">
+Digital Marketing
+</h4>
+<p class="wow animate__animated animate__fadeInUp">
+Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Sit, atque amet dolores ipsa minima placeat eaque enim
+provident fugit esse deserunt culpa exercitationem eligendi
+accusamus explicabo perferendis iusto molestiae unde!
+</p>
+</div>
+<div class="col-md-4 services">
+<img
+src="./images/service1.png"
+class="service-img wow animate__animated animate__fadeInUp"
+alt=""
+/>
+<h4 class="wow animate__animated animate__fadeInUp">
+Computer Training
+</h4>
+<p class="wow animate__animated animate__fadeInUp">
+Lorem ipsum dolor sit amet consectetur adipisicing elit.
+Sit, atque amet dolores ipsa minima placeat eaque enim
+provident fugit esse deserunt culpa exercitationem eligendi
+accusamus explicabo perferendis iusto molestiae unde!
+</p>
+</div>
+</div>
+</div>
+</div>
+<button
+class="carousel-control-prev"
+type="button"
+data-bs-target="#carouselExampleIndicators"
+data-bs-slide="prev"
+>
+<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+<span class="visually-hidden">Previous</span>
+</button>
+<button
+class="carousel-control-next"
+type="button"
+data-bs-target="#carouselExampleIndicators"
+data-bs-slide="next"
+>
+<span class="carousel-control-next-icon" aria-hidden="true"></span>
+<span class="visually-hidden">Next</span>
+</button>
+</div>

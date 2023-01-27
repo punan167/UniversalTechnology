@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+form{
+    width: 90%;
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+}
+.input_group{
+    margin-bottom: 30px;
+    position: relative;
+    
+
+}
+
+input,textarea{
+    width: 100%;
+    padding: 10px;
+    outline: 0;
+    background-color: #f8f9fa ;
+    border: none;
+    border-bottom: 1px solid rgb(25, 168, 235) !important;
+    font-size: 15px;
+}
+.submit{
+    border: none !important;
+    width: 100px;
+    background-color: rgb(25, 168, 235) ; 
+    color: #fff !important;
+    margin: 0 auto;
+}
+textarea{
+    border: 1px solid rgb(25, 168, 235) !important ;
+    border-radius: 5px;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+label{
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    cursor: text;
+    padding: 5px;
+    color: rgb(33, 146, 198);
+    transition: 0.3s;
+}
+
+input:focus~label
+,input:valid~label
+,textarea:focus~label
+,textarea:valid~label{
+    top: -25px;
+    font-size: 12px;
+}

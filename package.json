@@ -1,0 +1,25 @@
+{
+  "name": "utc-project",
+  "version": "1.0.0",
+  "main": "smooth-scroll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "waypoints": "^4.0.1",
+    "wow.js": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/punan167/UTC-Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/punan167/UTC-Project/issues"
+  },
+  "homepage": "https://github.com/punan167/UTC-Project#readme",
+  "description": ""
+}
